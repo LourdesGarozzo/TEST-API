@@ -1,8 +1,6 @@
-# TEST-API
-
 Pasos para levantar el proyecto:
 
-  - Clonar el repo https://github.com/LourdesGarozzo/TEST-API.git
+  - Clonar el repo https://github.com/LourdesGarozzo/TEST-API-ROSHKA.git
 
   - Crear la base de datos SQLSERVER con las siguientes credenciales:
 

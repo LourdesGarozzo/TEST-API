@@ -1,13 +1,8 @@
-# TEST-API-ROSHKA
-
-TEST: Apificar una página web
-
-El objetivo de este test es APIFICAR una página web para convertirla en un API RESTful de tal forma a que los datos arrojados por la página puedan integrarse con otros
-sistemas satélites que requieran hacer uso de la información en cuestión.
+# TEST-API
 
 Pasos para levantar el proyecto:
 
-  - Clonar el repo https://github.com/LourdesGarozzo/TEST-API-ROSHKA.git
+  - Clonar el repo https://github.com/LourdesGarozzo/TEST-API.git
 
   - Crear la base de datos SQLSERVER con las siguientes credenciales:
 
